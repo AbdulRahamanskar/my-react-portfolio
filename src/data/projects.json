@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Post Vibes",
+    "imageSrc": "projects/postvibes.png",
+    "description": "This is Price Comparsion Website ",
+    "skills": ["WordPress","Hostinger"],
+    "demo": "https://docs.google.com/presentation/d/1x2rC0piOPoDwlZg0V_yNK4HNZOdIWOFa/edit?usp=drive_link&ouid=107568006093831031688&rtpof=true&sd=true",
+    "source": "#"
+  },
+  {
+    "title": "Lit Chat",
+    "imageSrc": "projects/fire.png",
+    "description": "Lit Chat is a social media appliction ",
+    "skills": ["Android Studio","Firbase","Kotlin"],
+    "demo": "https://drive.google.com/file/d/1COyMUVRfOjANZMlASeiGg0YqpfFEFUdp/view?usp=sharing",
+    "source": "#"
+  }
+]
+
