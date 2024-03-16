@@ -40,6 +40,12 @@
 }
 
 .contactBtn {
+  /* display: inline-flex;
+  width: 50%;
+  height: 50%;
+  justify-content: center;
+  align-items: center; */
+  margin: 5px;
   text-decoration: none;
   background-color: var(--color-primary);
   color: var(--color-text);
@@ -49,6 +55,12 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
+.hori{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .heroImg {
   width: 50%;
@@ -58,6 +70,12 @@
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+}
+
+.btn-resume{
+  width: 50%;
+  height: 50%;
+  border-radius: 15px;
 }
 
 @keyframes floating {
@@ -106,6 +124,6 @@
   }
 
   .content {
-    align-items: center;
+    align-items:center;
   }
 }
