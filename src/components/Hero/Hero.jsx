@@ -14,10 +14,10 @@ export const Hero = () => {
         As a recent MCA post graduate, I am proficient in both web and app development. I am eager to enhance my skills and contribute effectively to projects
         </p>
         <div className={styles.hori}>
-        <a href="mailto:Abdulskar72@gmail.com" className={styles.contactBtn}>
+        <a href="mailto:Abdulrahaman.7779@gmail.com" className={styles.contactBtn}>
         Email
         </a>
-      <a download="Abdul_Resume.pdf" href={cv} className={styles.contactBtn}>Resume</a>
+      <a download="AbdulResumeupdated.pdf" href={cv} className={styles.contactBtn}>Resume</a>
       </div >
       </div>
       <img
